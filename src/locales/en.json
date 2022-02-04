@@ -1,0 +1,25 @@
+{
+  "modalTerm": {
+    "group": "{group}",
+    "term": "{term}",
+    "total": "Sum (OMR)"
+  },
+  "offer": {
+    "company": "{company}",
+    "discount": "{discount}",
+    "onlineOffer": "Online Offer",
+    "proceed": "Proceed"
+  },
+  "offerTerms": {
+    "compare": "Compare",
+    "cover": "Insurance Cover",
+    "currency": "OMR",
+    "name": "{name}",
+    "option": "Option",
+    "total": "Total",
+    "value": "Premium"
+  },
+  "offers": {
+    "compareBtn": "Compare"
+  }
+}

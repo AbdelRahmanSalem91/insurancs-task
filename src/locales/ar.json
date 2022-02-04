@@ -1,0 +1,25 @@
+{
+  "modalTerm": {
+    "group": "{group}",
+    "term": "{term}",
+    "total": "الاجمالي (ر.ع)"
+  },
+  "offer": {
+    "company": "{company}",
+    "discount": "{discount}",
+    "onlineOffer": "عرض أونلاين",
+    "proceed": "متابعة"
+  },
+  "offerTerms": {
+    "compare": "قــارن",
+    "cover": "التأمين",
+    "currency": "ريال عماني",
+    "name": "{name}",
+    "option": "اختياري",
+    "total": "المجموع",
+    "value": "القيمة"
+  },
+  "offers": {
+    "compareBtn": "قــارن"
+  }
+}
